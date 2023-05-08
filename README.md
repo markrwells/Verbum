@@ -23,7 +23,7 @@ As a Oligosynthetic Language, **Verbum** uses a set of modifying morphemes to cr
 
 [Noun Examples](Noun-Examples.md)
 
-[Adverbs & Adjectives](Adverbs-Adjective.md)
+[Adverbs & Adjectives](Adverbs-Adjectives.md)
 
 [Conjunctions & Prepositions](Conj-Prep.md)
 
